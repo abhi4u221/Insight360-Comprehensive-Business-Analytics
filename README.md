@@ -1,12 +1,12 @@
 # BI_360-PowerBI_Project
 
-## 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐦𝐞𝐧𝐭:
+## Problem Statement:
 AtliQ Hardware, a rapidly expanding global consumer electronics company, has been grappling with unwieldy Excel files for data analytics. This outdated approach has been hindering effective decision-making and causing significant losses. In response, they urgently sought agile, data-driven decision-making.
 
-## 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
+## Objective:
 Develop an interactive report offering invaluable insights across finance, sales, marketing, supply chain, and executive teams, using provided mockup dashboards as a reference.
 
-## 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡:
+## Approach:
 ➡️ Project Planning    
 ➡️ Data Collection, Exploration, Transformation   
 ➡️ Data Modeling    
