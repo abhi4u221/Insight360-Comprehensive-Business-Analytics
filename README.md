@@ -13,7 +13,7 @@ Develop an interactive report offering invaluable insights across finance, sales
 ➡️ Dashboard Preparation  
 ➡️ Data Validation & Stakeholder Feedback Implementation.  
 
-🔑 𝐊𝐞𝐲 𝐓𝐚𝐤𝐞𝐚𝐰𝐚𝐲𝐬:
+🔑 𝐊𝐞𝐲 𝐓𝐚𝐤𝐞𝐚𝐰𝐚𝐲𝐬:  
 ✅ Harnessing the Power of Power BI 📊  
 ✅Proficiency in Data Exploration through SQL, Fact, and dim Tables 📚  
 ✅Importing Data from MySQL Databases/CSV Files/Excel Workbooks 📂  
